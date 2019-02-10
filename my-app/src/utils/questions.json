@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {
+            "question": "What is the capitol of Illinois ?",
+            "options": [
+                { "score": 4, "value": "Springfield" },
+                { "score": 0, "value": "Chicago" },
+                { "score": 0, "value": "Peoria" },
+                { "score": 0, "value": "Bloomington" }
+            ]
+        },
+        {
+            "question": "What is the capitol of Kentucky ?",
+            "options": [
+                { "score": 4, "value": "Frankfort" },
+                { "score": 0, "value": "Louisville" },
+                { "score": 0, "value": "Bowling green" },
+                { "score": 0, "value": "Lexington" }
+            ]
+        },
+        {
+            "question": "What is the capitol of New Jersey ?",
+            "options": [
+                { "score": 0, "value": "Princeton" },
+                { "score": 4, "value": "Trenton" },
+                { "score": 0, "value": "Edison" },
+                { "score": 0, "value": "Easton" }
+            ]
+        },
+        {
+            "question": "What is the capitol of Texas ?",
+            "options": [
+                { "score": 0, "value": "Dallas" },
+                { "score": 4, "value": "Austin" },
+                { "score": 0, "value": "Houston" },
+                { "score": 0, "value": "San Antonio" }
+            ]
+        }
+    ]
+}

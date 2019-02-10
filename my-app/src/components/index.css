@@ -1,0 +1,44 @@
+.app-body {
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 54PX;
+    height: 450px;
+    padding: 30px
+}
+
+.app-header {
+    height: 52px;
+}
+
+.question-step {
+    float: right;
+    padding-top: 15px;
+}
+.backPNG-image {
+    float: left;
+}
+
+.button-style {
+    width: fit-content;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f1f0f0;
+}
+
+.button-selected-style {
+    background-color: #05c364;
+}
+
+.options {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+
+.question {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button:focus {outline:0;}
